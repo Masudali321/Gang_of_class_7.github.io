@@ -3,14 +3,15 @@
 window.onload = function() {
   // Your web app's Firebase configuration
   const firebaseConfig = {
-    apiKey: "AIzaSyAVsRiqTZjVN3mgIfKHq8Mm5luTtzoujlY",
-    authDomain: "jeewarriors-eb544.firebaseapp.com",
-    databaseURL: "https://jeewarriors-eb544-default-rtdb.firebaseio.com",
-    projectId: "jeewarriors-eb544",
-    storageBucket: "jeewarriors-eb544.appspot.com",
-    messagingSenderId: "940832730572",
-    appId: "1:940832730572:web:b3354d18117af319d84169",
-    measurementId: "G-DB144FJB2X"
+  apiKey: "AIzaSyBfkFhzmKk_29SpzEJljuQe9xPROvAryng",
+  authDomain: "gang-of-class-7.firebaseapp.com",
+  databaseURL: "https://gang-of-class-7-default-rtdb.firebaseio.com",
+  projectId: "gang-of-class-7",
+  storageBucket: "gang-of-class-7.appspot.com",
+  messagingSenderId: "910467879160",
+  appId: "1:910467879160:web:739aea0fef96cb45acab0d",
+  measurementId: "G-V90JTFR4WE"
+};
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
